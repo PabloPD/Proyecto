@@ -14,22 +14,18 @@ class ModelPDO {
 	 * IP o nom de domini del servidor
 	 * @var string
 	 */
-/*
+
         private $host = "localhost";
-	private $db = "yolibook";
-        private $usuari = "yoliroot";
+	private $db = "proyecto";
+        private $usuari = "xavier";
         private $contrasenya = "123456";
-         */
+
 
 	/**
 	 * Nom de la base de dades
 	 * @var string
 	 */
-        
-        private $host = "myboxesezfv1.mysql.db";
-        private $db = "myboxesezfv1";
-        private $usuari = "myboxesezfv1";
-        private $contrasenya = "PabloYoli2";
+
         
         /**
 	 * Charset de la base de base de dades
