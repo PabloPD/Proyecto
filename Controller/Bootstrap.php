@@ -12,5 +12,9 @@
  * @author Pablo
  */
 class Bootstrap {
-    //put your code here
+    
+    
+    public function __construct() {
+        echo "hola";
+    }
 }
